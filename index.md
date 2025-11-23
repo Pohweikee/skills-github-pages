@@ -1,5 +1,4 @@
 ---
-title: baler moment
-title: Welcome to my blog
+Baler moment: Welcome to my blog
 ---
 
